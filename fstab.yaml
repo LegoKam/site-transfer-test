@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p129970-e1316086.adobeaemcloud.com/bin/franklin.delivery/LegoKam/aem-boilerplate-xwalk/main"
+    type: "markup"
+    suffix: ".html"
